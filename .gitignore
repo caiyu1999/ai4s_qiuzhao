@@ -1,0 +1,5 @@
+# Python项目忽略文件
+__pycache__/
+*.egg-info/
+.DS_Store
+.mypy_cache/
